@@ -192,7 +192,10 @@ Razor pages do not have any kind of structure like MVC.  All Razor pages reside 
 The below screenshot will explain to you about differences between the project structure of .Net Core Razor pages and MVC.
 
 Understand Razor pages vs MVC structure from below image.
+
+
 ![del](https://user-images.githubusercontent.com/61011022/86684982-b873ee00-c00b-11ea-9bdc-de7c4761efc9.png)
+
 
 
 #### Code Comparison
