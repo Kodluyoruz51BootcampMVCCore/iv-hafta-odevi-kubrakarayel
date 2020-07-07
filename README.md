@@ -75,9 +75,7 @@ MVC uygulamasında veri tabanı tablolarını Code First yöntemi ile oluşturma
 + https://www.learnentityframeworkcore.com/migrations/model-snapshot#:~:text=Entity%20Framework%20Core.-,The%20Model%20Snapshot%20In%20Entity%20Framework%20Core,updated%20with%20each%20subsequent%20migration
 
 ### 4) Jquery Calender
-+ https://docs.microsoft.com/tr-tr/aspnet/mvc/overview/older-versions/using-the-html5-and-jquery-ui-datepicker-popup-calendar-with-aspnet-mvc/using-the-html5-and-jquery-ui-datepicker-popup-calendar-with-aspnet-mvc-part-4
-
-+ https://www.c-sharpcorner.com/UploadFile/0c1bb2/calendar-control-using-jquery-ui-in-Asp-Net-mvc-5/
++ https://stackoverflow.com/questions/38711170/datetimeoffset-in-fullcalendar-using-asp-net-mvc
 
 
 ### 5)First- FirstOrDefault ve Single- SingleOrDefault nedir? Aralarındaki farkı araştırınız.
